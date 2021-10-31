@@ -1,2 +1,8 @@
 # hello-world
-just a repository
+
+Hello! 
+
+I like C++ and Java.
+
+
+It's just a repository
